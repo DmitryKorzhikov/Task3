@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task3", "Task3\Task3.csproj", "{6EBC91A8-DE29-49E5-8085-A313B07FABE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task3_1", "Task3\Task3_1.csproj", "{6EBC91A8-DE29-49E5-8085-A313B07FABE8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3_1", "Task3_1", "{92786759-BBEA-4C59-8A81-DA0525A3904C}"
 EndProject
@@ -17,11 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task3_3", "Task3_3\Task3_3.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3_4", "Task3_4", "{69E40E9C-4A61-4537-BF28-632DCCB70120}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinValue", "MinValue\MinValue.csproj", "{5533DF4B-D17A-49E0-ABF1-548C96F5EAC5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3_4_MinValue", "MinValue\Task3_4_MinValue.csproj", "{5533DF4B-D17A-49E0-ABF1-548C96F5EAC5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3_5", "Task3_5", "{92954D60-3C1E-4FF4-8CE8-7834FD0AAD18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessNumber", "GuessNumber\GuessNumber.csproj", "{EDFFDCA2-CDA0-43C1-8F70-5BE685EA2C04}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3_5_GuessNumber", "GuessNumber\Task3_5_GuessNumber.csproj", "{EDFFDCA2-CDA0-43C1-8F70-5BE685EA2C04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
